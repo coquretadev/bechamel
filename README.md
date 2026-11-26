@@ -43,3 +43,11 @@ Las temporadas siguen el orden en que se construye un sistema: la 0 es pensar an
 | ID | Episodio | Artículo | Chapuza | Bien |
 | --- | --- | --- | --- | --- |
 | — | Todavía no hay ninguno publicado | | | |
+
+## Licencia
+
+El código de este repositorio es [MIT](./LICENSE): úsalo como quieras, también en proyectos comerciales, manteniendo
+el aviso de autoría. Se entrega tal cual, sin garantía, y eso vale doble para las carpetas `chapuza/`.
+
+Los artículos de [coquretadev.com/bechamel](https://coquretadev.com/bechamel) no están en este repositorio ni entran
+en esta licencia.
