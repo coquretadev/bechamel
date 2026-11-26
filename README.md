@@ -29,4 +29,11 @@ listo para producción.
 
 ## Episodios
 
-Todavía no hay ninguno publicado.
+Una fila por episodio publicado, en el orden de la serie. Las temporadas siguen el orden en que se construye un sistema:
+la 0 es pensar antes de construir; la 1, el código.
+
+| ID | Episodio | Artículo | Chapuza | Bien |
+| --- | --- | --- | --- | --- |
+| — | Todavía no hay ninguno publicado | | | |
+
+El ID es el del artículo: `T0·E1` es la temporada 0, episodio 1, y su carpeta es `t0-e01-<título>/`.
